@@ -1,5 +1,7 @@
 # Shareme
 
+Live Preview: https://shareme-kalabaz.netlify.app
+
 A step by step follow of this awesome course by JavaScript Mastery on Youtube.
 
 https://www.youtube.com/watch?v=1RHDhtbqo94&ab_channel=JavaScriptMastery
